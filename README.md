@@ -34,8 +34,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-article-component-preview-2hknOAhAQa)
+- Live Site URL: [GitHub](https://nicoams.github.io/article-component-preview/)
 
 ## My process
 
